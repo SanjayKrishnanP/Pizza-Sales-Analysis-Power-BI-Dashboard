@@ -1,4 +1,4 @@
-# Pizza Sales Analysis Power BI Dashboard Report
+# Pizza Sales Analysis Using Power BI and SQL
 
 ## Overview
 
